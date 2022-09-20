@@ -7,6 +7,7 @@
 .navbar{
     background-color: rgb(49, 56, 69);
     box-sizing: border-box;
+    
 }
 
 .navbar-brand{
@@ -15,6 +16,7 @@
     display: grid;
     flex-direction: row;
     box-sizing: border-box;
+    
 }
 
 
@@ -26,6 +28,7 @@
     position: sticky;
     margin: 0rem 0rem;
     box-sizing: border-box;
+    
 }
 
 
@@ -33,6 +36,7 @@
     width: 60px;
     height: 30px;
     margin: 0rem 6rem;
+    
 }
 .img{
     max-width: 50%;
@@ -59,8 +63,7 @@
     align-items: stretch;
     padding: 2.3rem;
     text-align: justify;
-    
-    
+    list-style: none;
 }
 
 a{
